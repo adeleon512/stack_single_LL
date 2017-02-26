@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/stack_single_LL/main.cpp
+iostream
+-
+stack_3358_LL.h
+C:/Users/Adam/CLionProjects/stack_single_LL/stack_3358_LL.h
+
+C:/Users/Adam/CLionProjects/stack_single_LL/stack_3358_LL.h
+assert.h
+-
+
